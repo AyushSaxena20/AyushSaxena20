@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushSaxena
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python Programming
+- 🌱 I’m currently learning C++ programming.
 - 📫 Reach me by E-mail :- ayushsaxenabvbv@gmail.com
 
 <!---
