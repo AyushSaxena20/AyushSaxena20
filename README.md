@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushSaxena
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ programming.
+- 🌱 I’m currently working in TATA Consultancy Services
 - 📫 Reach me by E-mail :- ayushsaxenabvbv@gmail.com
 
 <!---
